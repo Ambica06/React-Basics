@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "new stream",
+      "id": 1
+    },
+    {
+      "title": "second stream by userid",
+      "description": "byeee",
+      "id": 3
+    },
+    {
+      "title": "video",
+      "description": "change made by a patch request",
+      "userId": "117491167572697012831",
+      "id": 4
+    },
+    {
+      "description": "own history function",
+      "title": "programmatic navigation",
+      "userId": "117491167572697012831",
+      "id": 5
+    },
+    {
+      "title": "form reuse",
+      "description": "refactor of create stream",
+      "userId": "117491167572697012831",
+      "id": 6
+    }
+  ]
+}
